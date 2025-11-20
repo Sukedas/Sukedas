@@ -16,7 +16,7 @@
 <div align="center" style="margin-top: 20px;">
 
   <!-- Aquí colocas tus 3 imágenes de lenguajes (Python, Java, PostgreSQL) -->
-  <img src="./ruta/Languages.png" width="260" style="margin: 10px;">
+  <img src="Languages.png" width="260" style="margin: 10px;">
 
 </div>
 
