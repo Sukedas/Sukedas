@@ -98,12 +98,15 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 
 ---
 
-## 🎧 **Spotify – Lo que escucho últimamente**
-
 <div align="center">
 
+<h2>🎧 Lo que escucho en Spotify</h2>
+
 <a href="https://open.spotify.com/user/julirro18" target="_blank">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=julirro18&count=5" alt="Spotify Now Playing" />
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=julirro18&cover_image=true&theme=novatorem&show_offline=true" 
+    alt="Spotify Now Playing" 
+  />
 </a>
 
 </div>
