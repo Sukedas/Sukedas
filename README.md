@@ -16,9 +16,7 @@
 <div align="center" style="margin-top: 20px;">
 
   <!-- Aquí colocas tus 3 imágenes de lenguajes (Python, Java, PostgreSQL) -->
-  <img src="./ruta/Languages1.png" width="260" style="margin: 10px;">
-  <img src="./ruta/Languages2.png" width="260" style="margin: 10px;">
-  <img src="./ruta/Languages3.png" width="260" style="margin: 10px;">
+  <img src="./ruta/Languages.png" width="260" style="margin: 10px;">
 
 </div>
 
@@ -100,9 +98,7 @@
 <div align="center" style="margin-top: 20px;">
 
   <!-- Aquí colocas tus 3 imágenes de áreas (Bases de datos, Web Dev, Machine Learning) -->
-  <img src="./ruta/Area1.png" width="260" style="margin: 10px;">
-  <img src="./ruta/Area2.png" width="260" style="margin: 10px;">
-  <img src="./ruta/Area3.png" width="260" style="margin: 10px;">
+  <img src="./ruta/Banner.png" width="260" style="margin: 10px;">
 
 </div>
 
