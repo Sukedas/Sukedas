@@ -26,7 +26,7 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="julirro18@gmail.com">
+<a href="mailto:julirro18@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
