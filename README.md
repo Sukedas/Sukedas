@@ -132,6 +132,5 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 
 ---
 
-## ✨ **Gracias por visitar mi perfil :)**
 
 </div>
