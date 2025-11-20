@@ -102,7 +102,7 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
   <h2>🎧 Lo que escucho en Spotify</h2>
   <a href="https://open.spotify.com/user/julirro18" target="_blank">
     <img
-      src="https://spotify-github-profile.vercel.app/api/view?uid=julirro18&theme=novatorem&cover_image=true"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=julirro18&cover_image=true&theme=novatorem&show_offline=true"
       alt="Spotify Now Playing - julirro18"
     />
   </a>
