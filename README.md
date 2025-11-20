@@ -42,8 +42,6 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 
 ---
 
-
-
 <!-- STACK TECNOLÓGICO -->
 <h2 align="center">⚙️ Stack Tecnológico</h2>
 
@@ -73,19 +71,17 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
+
 ---
 
 ## 📈 **Mis estadísticas en GitHub**
 
 <div align="center">
 
-<!-- STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sukedas&show_icons=true&theme=tokyonight" height="160"/>
-
-<!-- STREAK -->
 <img src="https://streak-stats.demolab.com/?user=Sukedas&theme=tokyonight" height="160"/>
 
 </div>
@@ -105,14 +101,10 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 ## 🎧 **Spotify – Lo que escucho últimamente**
 
 <div align="center">
-  
-<h2 align="center">🎧 Lo que escucho en Spotify</h2>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/julirro18" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=julirro18&count=5" alt="Spotify Now Playing" />
-  </a>
-</p>
+<a href="https://open.spotify.com/user/julirro18" target="_blank">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=julirro18&count=5" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
@@ -131,6 +123,5 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 - Pasión por aprender y resolver problemas complejos  
 
 ---
-
 
 </div>
