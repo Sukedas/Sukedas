@@ -7,15 +7,6 @@
 Apasionado por el desarrollo backend, la optimización algorítmica y el aprendizaje automático.  
 Siempre buscando mejorar, aprender y construir soluciones eficientes.
 
----
-
-<!-- Imagen de áreas (lo que haces) -->
-<img src="./Banner.png" width="850" alt="Qué hago">
-
-<!-- Imagen de lenguajes/herramientas -->
-<img src="./Languages.png" width="850" alt="Tecnologías">
-
----
 
 ## 🔗 **Redes y Contacto**
 
