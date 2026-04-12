@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🚀 Hola, soy **Julián Cabrera**
-### *Backend Developer | Machine Learning Enthusiast | Systems Engineering Student | Data Analyst *
+### *Backend Developer | Machine Learning Enthusiast | Systems Engineering Student | Data Analyst*
 
 Apasionado por el desarrollo backend, la optimización algorítmica y el aprendizaje automático.  
 Siempre buscando mejorar, aprender y construir soluciones eficientes.
