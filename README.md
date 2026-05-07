@@ -8,7 +8,6 @@
 
 Apasionado por el desarrollo backend, la optimización algorítmica y el aprendizaje automático.  
 Siempre buscando mejorar, aprender y construir soluciones eficientes.
-[Download my Resume](./Julian_Cabrera_Resume.pdf)
 [Descarga mi Hoja de vida](./Julian_Cabrera_Hoja_de_Vida.pdf)
 
 
@@ -18,7 +17,6 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 Passionate about backend development, algorithm optimization, and machine learning.  
 Always looking to improve, learn, and build efficient solutions.
 [Download my Resume](./Julian_Cabrera_Resume.pdf)
-[Descarga mi Hoja de vida](./Julian_Cabrera_Hoja_de_Vida.pdf)
 
 ## 🔗 **Redes y Contacto**
 
