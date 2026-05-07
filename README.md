@@ -1,4 +1,6 @@
-<!-- Encabezado centrado -->
+<p align="center">
+  <img src="banner.png" alt="Julian Cabrera Banner" width="100%" height="auto" />
+</p><!-- Encabezado centrado -->
 <div align="center">
 
 # 🚀 Hola, soy **Julián Cabrera**
