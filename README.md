@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Julian Cabrera Banner" width="100%" height="auto" />
+  <img src="banner.png" alt="banner" width="100%" height="auto" />
 </p><!-- Encabezado centrado -->
 <div align="center">
 
