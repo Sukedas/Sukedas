@@ -18,7 +18,7 @@ Passionate about backend development, algorithm optimization, and machine learni
 Always looking to improve, learn, and build efficient solutions.
 [Download my Resume](./Julian_Cabrera_Resume.pdf)
 
-## 🔗 **Redes y Contacto**
+## 🔗 **Contact and Social media**
 
 <!-- ICONOS DE REDES -->
 <p align="center">
@@ -44,7 +44,7 @@ Always looking to improve, learn, and build efficient solutions.
 ---
 
 <!-- STACK TECNOLÓGICO -->
-<h2 align="center">⚙️ Stack Tecnológico</h2>
+<h2 align="center">⚙️ My Stack </h2>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -73,6 +73,9 @@ Always looking to improve, learn, and build efficient solutions.
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+    <a href="https://n8n.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original-wordmark.svg" width="50" height="50" alt="n8n"/>
   </a>
 </p>
 
