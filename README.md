@@ -75,7 +75,7 @@ Always looking to improve, learn, and build efficient solutions.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub"/>
   </a>
     <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original-wordmark.svg" width="50" height="50" alt="n8n"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="50" height="50" alt="n8n"/>
   </a>
 </p>
 
