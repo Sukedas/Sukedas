@@ -89,7 +89,6 @@ Always looking to improve, learn, and build efficient solutions.
   </a>
 
 </p>
----
 
 ## 📈 **Mis estadísticas en GitHub**
 
