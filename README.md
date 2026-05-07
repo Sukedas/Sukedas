@@ -11,6 +11,15 @@ Siempre buscando mejorar, aprender y construir soluciones eficientes.
 [Download my Resume](./Julian_Cabrera_Resume.pdf)
 [Descarga mi Hoja de vida](./Julian_Cabrera_Hoja_de_Vida.pdf)
 
+
+# 🚀 Hi!, I'm **Julián Cabrera**
+### *Backend Developer | Machine Learning Enthusiast | Systems Engineering Student | Data Analyst*
+
+Passionate about backend development, algorithm optimization, and machine learning.  
+Always looking to improve, learn, and build efficient solutions.
+[Download my Resume](./Julian_Cabrera_Resume.pdf)
+[Descarga mi Hoja de vida](./Julian_Cabrera_Hoja_de_Vida.pdf)
+
 ## 🔗 **Redes y Contacto**
 
 <!-- ICONOS DE REDES -->
