@@ -8,7 +8,7 @@
 
 Apasionado por el desarrollo backend, la optimización algorítmica y el aprendizaje automático.  
 Siempre buscando mejorar, aprender y construir soluciones eficientes.
-[Descarga mi Hoja de vida](./Julian_Cabrera_Hoja_de_Vida.pdf)
+[Descarga mi Hoja de vida](./Hoja_de_vida_Julian_Cabrera.pdf)
 
 
 # 🚀 Hi!, I'm **Julián Cabrera**
