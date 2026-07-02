@@ -23,7 +23,7 @@ Always looking to improve, learn, and build efficient solutions.
 <!-- ICONOS DE REDES -->
 <p align="center">
 
-<a href="https://www.linkedin.com/in/julian-david-cabrera-805132276/" target="_blank">
+<a href="https://www.linkedin.com/in/julian-cabrera-805132276" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
